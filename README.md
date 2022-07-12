@@ -1,2 +1,2 @@
 # Calculadora
-É uma calculadora feita em java.
+É uma calculadora feita com Swing Java.
